@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Opinião Impopular on odirk.org</title>
+    <link>http://localhost:1313/tags/opini%C3%A3o-impopular/</link>
+    <description>Recent content in Opinião Impopular on odirk.org</description>
+    <image>
+      <title>odirk.org</title>
+      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- 0.142.0</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 04 May 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/opini%C3%A3o-impopular/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sobre pronomes neutros</title>
+      <link>http://localhost:1313/posts/2021/pronome-neutro/</link>
+      <pubDate>Tue, 04 May 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/2021/pronome-neutro/</guid>
+      <description>E porque eu não aguento mais discutir isso</description>
+    </item>
+  </channel>
+</rss>

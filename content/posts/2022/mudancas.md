@@ -1,0 +1,57 @@
+---
+title: "Mudanças passadas e futuras"
+date: "2022-05-11"
+tags: ["vida"]
+description: "“Nenhum homem pode banhar-se duas vezes no mesmo rio, pois na segunda vez o rio já não é o mesmo e tampouco o homem.” – Heráclito"
+author: "gabriel"
+showToc: true
+TocOpen: false
+draft: false
+---
+
+De vez em quando converso com pessoas que pensam em se mudar do lugar que chamam de lar para outro totalmente novo – seja para trabalhar ou estudar, temporariamente ou não. Lembro de tomar essa decisão e das perguntas que eu me fazia. Espero que esse escrito colabore com alguma perspectiva para alguém em situação semelhante.
+
+Passei os primeiros 26 anos da minha vida em uma cidade, [Porto Alegre](https://pt.wikipedia.org/wiki/Porto_Alegre). Para quem não sabe, a população é de cerca de um milhão e meio de habitantes. Não é uma cidade enorme, nem é uma cidade pequena (apesar dos ares provincianos). Tenho boas lembranças de crescer nela. A maior parte da minha vida foi tranquila – indo estudar, trabalhar e me divertir onde eu quisesse. Quase todo mundo que eu conhecia morava nela ou nos arredores e, por isso, nossas vidas se transpunham em rotinas e passatempos – e eu estava contente em minha bolha. Isso explicava por que ver alguns amigos desenraizando suas vidas e se mudando para outra cidade (por trabalho, relacionamento ou simplesmente por diversão) parecia loucura para mim. Afastar-se de todos os meus amigos, família e da vida que eu conhecia? Recomeçar e construir tudo novamente? Honestamente, parecia aterrorizante.
+
+Agora, não me entenda mal – eu sempre fantasiei que eventualmente me mudaria para uma cidade maior. Na minha cabeça, isso aconteceria mais tarde na vida – depois que eu terminasse os estudos, estivesse indo atrás de um bom emprego ou de um relacionamento com alguém. Sim, esses realmente eram os pré-requisitos – eu tinha muito receio de me mudar para algum lugar sozinho. Afinal de contas, eu sempre fui tímido e nunca tive muitos amigos. Não é como se eu tivesse facilidade em iniciar relações. Na verdade, as palavras exatas que usei em meu diário na quando amadurecia a ideia foram que `"eu começaria do zero. Do nada. Não conhecendo ninguém... Mas essa possibilidade não é um não definitivo."` A semente estava lá.
+
+Bem, como a vida quis, em breve me foi apresentada a opção de fazer as malas e me mudar para [Melbourne](https://pt.wikipedia.org/wiki/Melbourne), na Austrália. Quando eu falava da mudança, as reações das pessoas eram bem polarizadas. Eu estava em cima do muro. Medo do desconhecido, primeira vez fazendo algo assim, etc. A ideia de colocar um oceano entre mim e meus amigos e minha família me assustou. Eu nunca tive que manter amizades envolvendo tanta distância e não sabia se seria capaz. Ainda mais, a diferença de fuso era especialmente cruel. Treze horas de diferença, o que significa que a janela de oportunidade onde as duas pontas da conversa estão acordadas é bem pequena. Também considerei quanto tempo levei para construir minha vida em Porto Alegre e parecia que eu estava me encaminhando para um período de muita solidão e relacionamentos terminados pelo afastamento. Por outro lado, era uma ótima oportunidade acadêmica e uma aventura em potencial. Se fosse ruim, mais cedo ou mais tarde iria acabar, e eu sempre poderia voltar mais cedo se desse *tudo errado mesmo*. Mas a ideia de deixar essa chance passar poderia acabar em arrependimento, que é algo que eu gosto de minimizar.
+
+Alguns meses depois, após algumas despedidas chorosas, eu estava em um hostel em Melbourne. Era só eu, minha mala e uma mochila. Caminhando sozinho pelas ruas dessa cidade enorme onde eu não conhecia nada nem ninguém, senti uma pontada de solidão que eu realmente não havia experimentado antes, estando tão longe do familiar. Mas essa solidão foi sublinhada por outra coisa – independência real. De repente, decidir onde iria morar, do que iria me alimentar, era tudo minha responsabilidade, e minha responsabilidade apenas. Assim como as próximas milhares de decisões que eu tomaria, do mundano ao existencial. Cabia a mim fazer as coisas acontecerem.
+
+Avanço rápido para hoje. Olhando para trás, posso dizer com confiança que morar em Melbourne foi uma das melhores decisões que tomei na minha vida. Aprendi muito sobre mim mesmo, o mundo, outras pessoas, estruturas sociais, autoconfiança, minhas próprias motivações, meus demônios, relacionamentos, conquistas e fracassos. Estive cercado por um grupo incrivelmente diversificado de pessoas de todo o mundo, de inúmeros setores e estilos de vida. 
+
+Estou em um momento da vida em que entendo bem quem sou e como me relaciono com o mundo. Mas a questão que fica é: eu poderia ter descoberto e aprendido tudo isso ficando na minha vida confortável, cercado pela família e amigos de longa data? Dado o tamanho da amostra de dados de um, é impossível dizer com certeza. Mas meu instinto diz que levaria muito mais do que levei. Ser jogado em um ambiente onde eu não conhecia nada nem ninguém, sendo obrigado a aprender rapidamente e estabelecer algo do nada, é uma oportunidade singular de aprendizado. Remover todos os filtros, suposições, preconceitos, rotinas e redes ao seu redor não significa que eles desapareçam para sempre. Pelo contrário, você finalmente fica consciente deles. Consciente de como suas decisões são realmente tomadas, em vez de estar tão acostumado com elas que pareçam parte de quem você é.
+
+Um dos meus maiores medos era não saber se apenas as mensagens e o FaceTime seriam suficientes para manter meus relacionamentos vivos, sem correr o risco de perdê-los. Então vou resumir minha experiência em uma única frase:
+
+> As pessoas que você ama (e que sentem o mesmo por você) serão parte integrante de sua vida, independentemente da distância, presença ou frequência dessas interações.
+
+E vou adicionar dois corolários a isso:
+
+> Você pode não saber quem são essas pessoas, mesmo que ache que sabe. Algumas pessoas de quem eu esperava ficar perto, acabei me afastando; outros relacionamentos que eu não valorizava tanto só ficaram mais ricos com o tempo e a distância. 
+> 
+> Qualidades e traços que você admira em outras pessoas podem mudar com o tempo, e, por consequência, a sua percepção sobre elas. Você vai explorar o mundo. Você também vai ter pressuposições sobre você que serão provadas erradas. Chame isso de perspectiva, experiência, sabedoria – o que você quiser. É improvável que, ao retornar, você seja capaz de se encaixar perfeitamente à antiga vida.
+
+Outra grande preocupação minha era conhecer novas pessoas. Eu tive uma vida fácil em Porto Alegre – eu fazia parte de alguns grupos de amigos que se viam semanalmente por anos e anos. A mudança para Melbourne tirou todas essas vantagens e me colocou em pé de igualdade com todos os outros. Isso significava que eu tinha que estender a mão, iniciar o contato, me expor. Não tinha conexões para pedir uma carona, nenhum grupo que eu conhecesse para me conectar instantaneamente, nada disso. Precisei usar dessas dicas para fazer amigos em uma nova cidade:
+
+- **Diga olá.** Está em uma cafeteria? Esperando na fila? Conhecendo uma nova parte da cidade? Há um mar de pessoas interessantes por aí. Puxe assunto!
+- **Use a internet.** Não importa se são aplicativos de namoro, encontros, eventos – use essa coisa fantástica para conhecer outras pessoas com os mesmos interesses. 
+- **Sempre diga sim.** Foi convidado para uma festa aleatória onde você não conhece ninguém e acha que vai ficar sobrando a noite toda? Vá. Algumas das pessoas mais legais que conheci vieram de encontros aleatórios na festa de um amigo de um amigo que eu apareci com um fardo de cerveja e um saco de Doritos. Foi convidado para algum rolê sortido por um amigo-que-não-é-muito-amigo-ainda? Vá! Este é o momento de encher sua agenda. Maximize a serendipidade e os encontros espontâneos.
+- **Não espere.** Todo mundo tem suas próprias vidas. É provável que a pessoa com quem você quer encontrar já tenha outras obrigações sociais com as quais você está competindo – outros amigos, um parceiro, um esporte, um emprego. Você precisa ser proativo para entrar em contato em vez de esperar delas se lembrarem de você. Faça isso várias vezes e você encontrará um equilíbrio com os convites aceitos em vários grupos.
+- **Seja criativo.** Explore seus interesses. Inscreva-se para aquela aula aleatória que você está de olho há algum tempo. Agende um piquenique no parque. Planeje uma viagem para algum lugar. Faça um esforço para organizar algo e as pessoas ficarão felizes em participar. Ter alguém se oferecendo para pensar por você é uma conveniência maravilhosa.
+
+Tudo que escrevi pode fazer parecer que se mudar é a coisa mais fácil do mundo. Definitivamente não é. Havia noites em que eu não tinha nada para fazer senão ser olhar para as paredes e ser acostado pela solidão. Outras vezes, eu via pela internet todos os meus amigos juntos e sentia que estava perdendo momentos incríveis. E a realidade é essa, você vai perder muita coisa: festas, aniversários, casamentos, viagens, etc. Talvez, o pior de tudo é ver alguns relacionamentos terminarem e não poder fazer nada a respeito – isso não é nada fácil.
+
+Além de tudo isso, tenho um conjunto muito afortunado de circunstâncias que tornaram essa mudança relativamente de baixo risco:
+
+- Uma rede de segurança incrível em casa. Se tudo der errado, sempre posso voltar a morar com meus pais e eles inclusive pagariam a passagem de volta. Nem todo mundo tem isso e é algo que eu não desmereço.
+- Ter a sorte de permanecer remunerado enquanto morei fora. Nenhuma cidade grande é barata – especialmente quando se considera um câmbio desfavorável e os custos da mudança em cima disso.
+- Eu precisei me virar bastante em Melbourne para conseguir um lugar para morar e achar amigos para dividir o aluguel. Isso teria sido muito, muito mais difícil se eu também precisasse conseguir um emprego. Outras pessoas que conheço tiveram que lidar com tudo isso e muito mais; então, embora seja possível, é bastante maçante. 
+- Melbourne é uma cidade cosmopolita, incrivelmente diversificada, com algumas das pessoas mais receptivas e de mente aberta que tive o prazer de conhecer. Nem todas as cidades são assim, e tenho sorte de ter morado lá.
+
+Isso acabou ficando mais longo do que eu esperava. Mas a ideia geral que quero deixar é que quase nada de interessante acontece espontaneamente, você tem que se expor e tolerar um nível de risco diferente do zero. É reconfortante ser conhecido e conhecer, mas é muto emocionante mergulhar no desconhecido. Às vezes, isso é tão simples quanto conhecer uma pessoa nova, outras vezes é fazer as malas e se mudar de país. Mas, para mim, explorar a estrada mais difícil, mais chata, menos clara ou menos percorrida foi muito recompensadora. Só não se esqueça que você se leva aonde quer que vá. Se mudar não é uma cura para todos os problemas, mas a novidade do ambiente pode ser um excelente catalisador para mudanças. 
+
+---
+
+Pelo título do artigo, acho que está evidente que eu estou escrevendo isso para mim mesmo. Ando um pouco cansado da minha rotina, e esse cansaço provoca uma inquietação por mudanças. Não sei bem o que pretendo fazer de diferente ou para onde ir, só sei que cansei de Porto Alegre. Precisamos dar um tempo um do outro. Talvez a moral desse texto seja me assegurar que eu já fiz isso antes, então não há motivo para ficar receoso (nem pensar muito).

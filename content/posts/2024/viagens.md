@@ -1,0 +1,1 @@
+https://dynomight.net/travel/
